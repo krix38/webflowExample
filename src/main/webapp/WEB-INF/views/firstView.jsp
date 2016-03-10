@@ -1,7 +1,7 @@
 <html>
 <body>
 
-    <a href="welcome-flow">Start welcome flow</a>
+    <a href="start-flow">start flow</a>
 
 </body>
 </html>
