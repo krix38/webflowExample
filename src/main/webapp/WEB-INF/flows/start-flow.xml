@@ -6,7 +6,7 @@
       start-state="second">
 
 <view-state id="second" view="/WEB-INF/views/secondView.jsp">
-    <transition on="next" to="finish"/>
+    <transition on="submit" to="finish"/>
 </view-state>
 
 <end-state id="finish" view="/WEB-INF/views/thirdView.jsp"/>

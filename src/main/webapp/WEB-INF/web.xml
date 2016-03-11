@@ -11,8 +11,8 @@
         <init-param>
             <param-name>contextConfigLocation</param-name>
             <param-value>
-                /WEB-INF/config/login-webflow-config.xml
-                /WEB-INF/mainServlet-servlet.xml
+                /WEB-INF/webflowConfig/webflow-config.xml
+                /WEB-INF/servletConfig/mainServlet-servlet.xml
             </param-value>
         </init-param>
         <load-on-startup>1</load-on-startup>
